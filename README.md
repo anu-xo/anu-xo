@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# Hi there, I'm Anuradha Joshi 👋✨
+Hi there, I'm Anuradha Joshi 👋✨
 
 🎓 Engineering Student | 🤖 AI/ML Enthusiast | 🛡️ Aspiring Cybersecurity Engineer  
 
