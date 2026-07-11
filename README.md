@@ -1,19 +1,10 @@
-## Hi there 👋
+## Heyy!!!
 
-Hi there, I'm Anuradha Joshi 👋✨
+I'm Anuradha Joshi✨
 
-🎓 Engineering Student | 🤖 AI/ML Enthusiast | 🛡️ Aspiring Cybersecurity Engineer  
+🎓 2nd Year Engineering Student | 🤖 AI/ML Enthusiast | 🛡️ Aspiring Cybersecurity Engineer  
 
-I’m a passionate and curious engineering student who always asks **“why?”**.  
-Hardworking, consistent, and always excited to learn new tech 🚀  
-Currently exploring the world of **AI, ML, and development** and building my foundation step by step.
-
----
-
-## 🌱 Currently Learning
-- RAG (Retrieval-Augmented Generation) Pipelines  
-- LangChain & LangGraph  
-- Improving my Python & Web Development skills  
+I’m a passionate and curious engineering student currently exploring the world of **AI, ML, and development** and building my foundation step by step.
 
 ---
 
@@ -32,13 +23,17 @@ Currently exploring the world of **AI, ML, and development** and building my fou
 - CSS  
 - Bootstrap  
 - JavaScript  
-- Python  
+- Python
+- React
+- Node
+- Express
 
 **Tools & Platforms:**
 - VS Code  
 - Jupyter Notebook  
 - Anaconda  
-- Git & GitHub  
+- Git & GitHub
+- Claude
 
 ---
 
@@ -68,14 +63,6 @@ Stay tuned 👀✨
 
 - 📧 Email: **anuradhaa.vits@gmail.com**  
 - 💼 LinkedIn: **Anuradha Joshi**  
-
----
-
-## ✨ A Little More About Me
-
-- I love learning how things *actually* work  
-- I believe in consistency over motivation  
-- I’m here to grow, build, and create impact 💪  
 
 ---
 
