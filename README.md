@@ -135,7 +135,8 @@ Frontend for a modern web experience, focused on clean UI and smooth interaction
 <div align="center">
 
 ![](https://progress-bar.dev/70/?title=ThreadVerse%20build&width=300&color=8a2be2)
-![](https://progress-bar.dev/45/?title=DSA%20%2B%20Interview%20Prep&width=300&color=8a2be2)
+![](https://progress-bar.dev/20/?title=DSA%20%28150-200%20problem%20goal%29&width=300&color=8a2be2)
+![](https://progress-bar.dev/10/?title=Open%20Source%20%28GSoC%202027%20track%29&width=300&color=8a2be2)
 
 </div>
 
